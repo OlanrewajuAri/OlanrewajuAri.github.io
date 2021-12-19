@@ -1,0 +1,516 @@
+header{
+    background-color: #003F63;
+    padding: 1.2rem  4.4rem 1.2rem 4.4rem;
+}
+
+body{
+width: 100%;
+}
+header  li a{
+    color: white;
+    text-decoration: none;
+}
+.yellow{
+    color: #DEA800;
+}
+header li{
+    list-style-type: none;
+    padding-right: 1.5rem;
+    margin-top: -1.5rem;
+}
+header ul{
+    display: flex;
+    padding: 0;
+    margin: 0;
+    justify-content: flex-end;   
+}
+.wrapper{
+    padding: 0 4rem;
+}
+.deepblue{
+    background-color: #010440;
+}
+.colorwhite{
+    color: white;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.colorwhite p{
+    margin-top: -2.5rem;
+
+}
+.wrapper{
+    padding-right: 42rem;
+    padding-bottom: 6rem;
+}
+.fontsize{
+    font-size: 5rem;
+    padding-right: 30rem;
+}
+.fontsize1{
+    font-size: 2rem;
+    padding-right: 20rem;
+}
+.backgroundcolor{
+    background-color: #506AD4;
+    padding: 1rem 1rem;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    text-decoration: none;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;   
+}
+.wrapper2{
+    padding: 0 4rem;
+}
+
+
+.shrink{
+    font-size: 2.5rem;
+    padding-right: 30rem;
+    padding-left: 3.3rem;
+    color: #010440;
+    padding-top: 3.5rem;
+}
+.shrink2{
+    font-size: 1.3rem;
+    padding-right: 30rem;
+    padding-left: 3.3rem;
+}
+.wrapper2{
+  padding-right: 30rem;
+}
+.backgroundcolor2{
+    background-color: #506AD4;
+    padding: 1rem 1rem;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    text-decoration: none;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;   
+    margin-left: 3rem;
+    font-weight: bold;
+    font-size: large;
+}
+.body{
+    padding: 0 1rem;  
+}
+
+.backgroundimage{
+    background-image: url('./ev-zQtmZjMdejU-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    box-sizing: border-box;
+}
+.box {
+    font-size: 15px;
+    color:  black;
+    padding: 5px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    box-sizing: border-box;
+    width: 20px;
+    flex-basis: 45%;
+    margin-top: -20rem;
+  }
+  .box-1 {
+    background: #110066; 
+    margin-right: -10rem;
+    padding: 4rem 5rem;
+    border-radius: 1rem 1rem 1rem 1rem;
+    color: white;
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+  .box-2{
+      background: #3EB595;
+      margin-right: 11rem;
+      padding: 3rem 5rem;
+      margin-top: -10.5rem;
+      border-radius: 1rem 1rem 1rem 1rem;
+      color: white;
+      display: flex;
+      align-items: center;
+      text-align: center;
+  }
+  .box-3{
+      background: #D98E04;
+      padding: 4rem 5rem;
+      margin-top: -5rem;
+      margin-right: -10.2rem;
+      border-radius: 1rem 1rem 1rem 1rem;
+      color: white;
+      display: flex;
+      align-items: center;
+      text-align: center;
+  }
+  .container {
+    display: flex;
+    border: 0px solid black;
+    height: 4vh;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    padding-right: 3rem;
+    margin-left: 70rem;
+    margin-top: -330rem;  
+  }
+  .borders3{
+      display: flex;
+      margin-left: 3rem;
+      border: 0px solid red;
+      width: 85rem;
+      margin-top: 5rem;
+  }
+  .border1{
+      border: 3px solid black;
+      padding: 2rem 2rem 2rem 2rem;
+      width: 900px;
+      height: 26vh;
+      margin-right: 1rem;
+      border-radius: 1.5rem 1.5rem 1.5rem 1.5rem;
+      text-align: center;
+      display: flex;
+      align-items: center;
+      font-size: x-large;
+  }
+  .border2{
+      background-color: #110066;
+      padding: 2rem 2rem 2rem 2rem;
+      width: 900px;
+      height: 26vh;
+      margin-right: 1rem;
+      border-radius: 1.5rem 1.5rem 1.5rem 1.5rem;
+      text-align: center;
+      display: flex;
+      align-items: center;
+      color: white;
+      font-size: x-large;
+  }
+  .border3{
+      border: 3px solid black;
+      padding: 2rem 2rem 2rem 2rem;
+      width: 900px;
+      height: 26vh;
+      border-radius: 1.5rem 1.5rem 1.5rem 1.5rem;
+      text-align: center;
+      display: flex;
+      align-items: center;
+      font-size: x-large;
+  }
+  .flexright{
+      margin-left: 2rem;
+      margin-top: 4rem;
+      font-size: 30px;
+  }
+  .backgroundcolor3{
+    padding: 2rem 0.5rem 1rem 0rem;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    text-decoration: none;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;  
+    font-size: 1.5rem;
+  }
+  .flexright a{
+      margin-top: 2rem;
+  }
+  .borders4{
+    display: flex;
+    margin-left: 3rem;
+    border: 0px solid red;
+    width: 85rem;
+    margin-top: 4rem;
+  }
+  .borders4 h2{
+      font-size: 2rem;
+      width: 29rem;
+      border: 0px solid black;
+      margin-right: 20rem;
+      margin-top: -0.4rem;
+      padding-right: 20px;
+      float: left;
+  }
+  
+.borders4 nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding-left: 5rem;
+    margin-right: 0rem;
+}
+.borders4 li a{
+    color: black;
+}
+
+.img{
+    margin-top: 5rem;
+    float: left;
+    padding-right: 15rem;
+    border: 0px solid red;
+}
+
+article{
+    margin-right: -20rem;
+    padding-top: 10rem;
+    padding-right: 0rem;
+    border: 0px solid red;
+}
+article h2{
+    font-size: 3rem;
+    padding-top: 2rem;
+    
+}
+article p{
+    font-size: 1.3rem;
+    padding-bottom: 1rem;
+    padding-top: -8rem;
+}
+.building{
+    border: 3px solid black;
+    padding: 1rem 1rem;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    text-decoration: none;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;   
+    color: black;
+    font-size: 1.8rem;
+}
+
+.floatright{
+    float: right;
+    margin-top: 5rem;
+    margin-right: -22rem;
+}
+
+.article{
+    border: 0px solid red;
+    margin-top: 23rem;
+    width: 50rem;
+    margin-bottom: 10rem;
+}
+
+.mobile{
+    border: 3px solid black;
+    padding: 1rem 1rem;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    text-decoration: none;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;   
+    color: black;
+    font-size: 1.8rem;
+}
+
+.floatright2{
+    float: right;
+    text-align: left;
+    padding-top: 15rem;
+    width: 50rem;
+    justify-content: center;
+    align-content: flex-end;
+}
+
+.text{
+    border: 3px solid black;
+    padding: 1rem 1rem;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    text-decoration: none;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;   
+    color: black;
+    font-size: 1.8rem;
+}
+
+.map{
+    padding: 4rem 4rem 0 4rem;
+    width: 90rem;
+}
+
+  /*in postion relative vs absolute, the position relative is the parent while the psoition absolute is the child. by so doing, I can control the absolute inside the relative. */
+
+
+  .boxx {
+    font-size: 20px;
+    color: white;
+    padding: 40px;
+    text-align: left;
+    font-family: lato;
+    /*font-weight:*/
+    box-sizing: border-box;
+    flex-basis: 33.3%;
+    border-right: 0.1px solid white;
+    border-bottom: 0.1px solid white;
+    margin-top: 0rem;
+  }
+
+  .box-01 {
+  /*  background: #fa6800;*/
+
+  }
+  .box-02{
+ /*   background: #fa6800;*/
+  }
+  .box-03 {
+  /*  background: #f0a30a; */
+    border-right: none;
+  }
+  .box-4 {
+      /*background: #e3c800; */
+    }
+  .box-5 {
+     /* background: #a4c400;*/
+    }
+  .box-6 {
+      /*background: #60a917;*/
+      border-right: none;
+    }
+  .box-7 {
+    /*  background: #00aba9;*/
+    border-bottom: none;
+    }
+  .box-8 {
+      /*background: #1ba1e2;*/
+      border-bottom: none;
+    } 
+  .box-9 {
+      /*background: #aa00ff;*/
+      border-right: none;
+      border-bottom: none;
+    } 
+
+   
+
+    .boxup {
+        display: flex;
+        height: 0vh;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: left;
+        align-items: left;
+        text-align: right; 
+        margin-left: 3rem;
+        width: 90rem;
+        padding: 12rem 1rem 60rem 0rem;
+        background-color: #110066;
+        margin-top: -10rem;
+      }
+
+    .movecenter{
+     border: 0px solid red;
+     text-align: end;
+     padding-right: 13rem;
+     font-size: 3rem;
+     color: #fff;
+    }
+
+.blackbackground{
+    background-color: black;
+    width: 94rem;
+    height: 60vh;
+}
+
+.black{
+    background-color: black;
+    width: 91rem;
+    margin-left: 3rem;
+    margin-top: 3rem;
+    display: flex;
+    border-bottom: 2px solid white;
+}
+.black img{
+    height: 4.2vh;
+    margin-top: 2.5rem;
+    margin-left: 3rem;
+}
+
+.black nav{
+    margin-bottom: 2rem;
+}
+.black nav ul{
+    display: flex;
+    justify-content: flex-end;
+    padding-left: 55rem;
+}
+.black nav ul li{
+    padding-left: 1rem;
+    margin-left: 0rem;
+    list-style-type: none;
+    margin-top: 2rem;
+}
+
+.black nav ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.blackbackground h3{
+color: white;
+}
+
+.blackbackground p{
+    color: white;
+}
+
+.icon{
+    color: blue;
+    font-size: 30px;
+    transition: color 0.2s;
+}
+.icon:hover{
+    color: white;
+}
+
+.red{
+    color: red;
+    font-size: 30px;
+    transition: color 0.2s;
+}
+
+.red:hover{
+    color: white;
+}
+
+.white{
+    color: white;
+    font-size: 30px;
+    transition: color 0.2s;
+}
+.white:hover{
+    color: white;
+}
+
+.blue{
+    color: white;
+    font-size: 30px;
+    transition: color 0.2s;
+}
+.blue:hover{
+    color: blue;
+}
+
+.space a{
+    padding-right: 1rem;
+}
+
+.margin{
+    margin-left: 3rem;
+}
+
+.floatright1{
+    float: right;
+    margin-top: -17rem;
+    color: white;
+    margin-right: 50rem;
+}
+
+.centerit{
+    text-align: center;
+}
+
+
+    
+
+
+
+
+
+
